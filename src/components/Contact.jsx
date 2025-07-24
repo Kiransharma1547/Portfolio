@@ -194,7 +194,7 @@ const Contact = () => {
         {/* Footer */}
         <div className="mt-20 pt-8 border-t border-gray-700 text-center">
           <p className="text-gray-400">
-            © 2024 Kiran Sharma. Built with passion and lots of coffee ☕
+            © 2025 Kiran Sharma. Built with passion and lots of coffee ☕
           </p>
         </div>
       </div>
